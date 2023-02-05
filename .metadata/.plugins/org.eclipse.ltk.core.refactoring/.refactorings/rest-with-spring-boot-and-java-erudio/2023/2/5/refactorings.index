@@ -4,3 +4,5 @@
 1675298588291	Rename type 'RefactorTests'
 1675298613869	Delete elements
 1675298666712	Rename resource 'application.properties'
+1675519745656	Delete element
+1675519765968	Rename type 'GreetingController'
